@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "The Discord user chooses his role on the current server.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "author": "Ox-Code",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
